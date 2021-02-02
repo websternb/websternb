@@ -1,12 +1,12 @@
-##**Nicholas Webster**
-###Summary
+## **Nicholas Webster**
+### Summary
 Senior standing Community and Regional Planning student. GIS Certified at the time of graduation with experience working in SketchUp.
-###Education
-####Appalachian State University
+### Education
+#### Appalachian State University
 Community and Regional Planning, Department of Geography and Planning
 Boone, NC, USA
 websternb@appstate.edu
-###Work Experience
+### Work Experience
 Research Assistant - NCDOT TSAP Project 1
 Shift Lead - Booneshine Brewing Co.
 
